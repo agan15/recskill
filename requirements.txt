@@ -1,0 +1,3 @@
+yummly
+pandas
+numpy
